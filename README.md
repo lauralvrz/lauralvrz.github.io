@@ -1,3 +1,3 @@
 # my-website
 
-A simple website website about me.
+A simple website about me.
