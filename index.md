@@ -1,6 +1,10 @@
 # En construcción
 
+Estudiante de último curso de Ingeniería Informática
+
 ## In maintenance
+
+Computer Science and Engineering student
 
 <!---
 ## Welcome to GitHub Pages
